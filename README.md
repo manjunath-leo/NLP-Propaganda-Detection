@@ -22,4 +22,4 @@ To run this pipeline successfully, the following hardware is required due to the
 *Note: The entire pipeline fits comfortably within the constraints of the Google Colab Free Tier.*
 
 If trouble arrises during reproducibility of the coloab notebook 
-email at manjuunath21203@gmail.com   or  s2masada@uni-trier.de
+email at manjunath21203@gmail.com   or  s2masada@uni-trier.de
