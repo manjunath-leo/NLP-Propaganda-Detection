@@ -21,5 +21,5 @@ To run this pipeline successfully, the following hardware is required due to the
 
 *Note: The entire pipeline fits comfortably within the constraints of the Google Colab Free Tier.*
 
-## How to Replicate (Local Environment)
-If you prefer to run the experiments locally rather than in Colab, ensure you have Python 3.10+ and a local NVIDIA GPU configured with appropriate CUDA drivers.
+If trouble arrises during reproducibility of the coloab notebook 
+email at manjuunath21203@gmail.com   or  s2masada@uni-trier.de
